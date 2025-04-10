@@ -61,3 +61,8 @@ AdaBoost			95.21%
 Dataset used:https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 You must download it separately due to size.
 
+
+##streamlit app
+https://pneumonia-detection-using-svm-ketnxdvxymzppufzecpjha.streamlit.app/
+
+
