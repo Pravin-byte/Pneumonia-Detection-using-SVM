@@ -6,3 +6,4 @@ matplotlib==3.10.0
 opencv-python==4.11.0.86
 Pillow==11.1.0
 joblib==1.4.2
+gdown
